@@ -3,3 +3,4 @@ openai
 langchain
 langchain-community
 langchain-openai
+python-dotenv==1.0.1
